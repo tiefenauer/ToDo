@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background: url('images/background_bright.png');
+}
+
+#mainContainer {
+	padding: 20px;
+  	margin-bottom: 30px;
+  	background-color: white;
+  	-webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+}
