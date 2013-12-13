@@ -21,8 +21,10 @@ ToDo is a very simple web app to keep track of your upcoming tasks.
 * find out the meaning of life
 
 # Where can I try it out?
-Oh, yes, I almost forgot. You find a running version of the app on
-[http://todo.tiefenauer.info]
+Oh, yes, I almost forgot. You find a running version of the app on [web-app]
 
 # Anything else?
-If you like the App, drop be a line on [my blog]([http://www.tiefenauer.info/?page_id=20)
+If you like the App, drop be a line on [blog]
+
+[web-app]:http://todo.tiefenauer.info
+[blog]:http://www.tiefenauer.info/?page_id=20
